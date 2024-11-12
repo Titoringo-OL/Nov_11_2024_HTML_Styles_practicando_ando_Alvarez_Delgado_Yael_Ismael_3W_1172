@@ -40,5 +40,32 @@ Nov 11 2024 HTML Styles practicando ando...
 # Resultado
 ![image](https://github.com/user-attachments/assets/a336e9f9-4b06-45c5-95dc-ca2e07718cf2)
 
+# 9# Blockquote
+![image](https://github.com/user-attachments/assets/8326f369-bb88-4011-b27c-4529b62efe60)
+# Resultado
+![image](https://github.com/user-attachments/assets/2fce75f8-3094-4004-a87b-ffe33c81de3c)
 
+# 10# Citas Breves
+![image](https://github.com/user-attachments/assets/023eebde-3b8f-4481-80b0-b90ed9211f44)
+# Resultado
+![image](https://github.com/user-attachments/assets/5054516d-d7f8-430b-abfc-e99c905bc84f)
 
+# 11# abbr
+![image](https://github.com/user-attachments/assets/d14f926a-84d0-4ffa-af34-0dd8bf878d7d)
+# Resultado
+![image](https://github.com/user-attachments/assets/28236ce2-7b53-4a5b-b0cf-ef2a63ba9b7c)
+
+# 12# <address>
+![image](https://github.com/user-attachments/assets/dd91b66a-2a64-4e33-89e3-eebfce2372f0)
+# Resultado
+![image](https://github.com/user-attachments/assets/d0d3a6b8-bc57-4ad3-9c38-dfbd3fc512ab)
+
+# 13# <cita>
+![image](https://github.com/user-attachments/assets/735add08-6546-4f3f-a951-1e14b5f0143b)
+# Resultado
+![image](https://github.com/user-attachments/assets/ec4a0a86-b289-4fda-8eb5-9a9f4f92003c)
+
+# 14# <bdo>
+![image](https://github.com/user-attachments/assets/e596109c-7ae6-49d4-84f6-f07320bec7d3)
+# Resultado
+![image](https://github.com/user-attachments/assets/ac256e25-2ffa-4409-a786-21d81a104ab2)
